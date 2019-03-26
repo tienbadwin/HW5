@@ -1,0 +1,7 @@
+.one {background-color: darkred;}
+.two {background-color: darkblue;}
+.three {background-color: yellow;}
+#button {background-color: lightgreen;}
+.bold {color: red; font-size: 250%;}
+.small {color: darkblue; font: 17px;}
+.buttonclass {background-color: darkgreen !important; font-size: 130%; color: aliceblue; font-weight: bold;}
